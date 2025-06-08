@@ -1,4 +1,9 @@
-## Hi there 👋
+## Blog Posts
+
+|Date|Title|
+|---|---|
+|2025/04/17|[Grafana k6 × AWS Fargate で実現する効果的な負荷テスト](https://nulab.com/ja/blog/nulab/grafana-k6-aws-fargate-load-testing/)|
+|2024/12/24|[これからOSS活動を始める方へ：Goを使用した個人開発の話](https://zenn.dev/42milez/articles/bb94e87ff48ca6)|
 
 <!--
 **42milez/42milez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
