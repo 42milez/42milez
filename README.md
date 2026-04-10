@@ -1,3 +1,7 @@
+## Abount Me
+
+I’m passionate about breaking down complex systems, understanding them piece by piece, and rebuilding them into something clear and dependable. In my work, I value reducing hidden assumptions and implicit knowledge, and aim for designs with well-defined responsibilities that are easier to read and reason about. Rather than stopping at “it works,” I care about shaping software into something that is easier to verify, maintain, and continuously improve.
+
 ## Blog Posts
 
 |Date|Title|
